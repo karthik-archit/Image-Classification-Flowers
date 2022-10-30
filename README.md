@@ -7,7 +7,7 @@ Image classification of flowers into 104 different categories. Various pre-train
 
 Dataset Source :
 
-Kaggle Competition Dataset
+Kaggle Competition Dataset - https://www.kaggle.com/competitions/tpu-getting-started/data
 
 Libraries Used :
 
